@@ -1,0 +1,13 @@
+.btns{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 50px;
+    justify-content: space-around;
+    
+}
+
+button {
+    border-radius: 5px;
+}
+
